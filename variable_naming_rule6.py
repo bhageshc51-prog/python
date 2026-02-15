@@ -5,6 +5,5 @@ weight = 46.3      # float
 
 print(type(is_student))   
 
-is_student = "Yes"
-
-print(type(is_student))   
+age_float = float(age)
+print(age_float)
