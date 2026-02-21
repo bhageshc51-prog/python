@@ -1,0 +1,9 @@
+name = "bhagesh"
+age = 21 #int
+is_student = False #bool
+weight = 55.56 #float
+
+print(type(is_student))
+s = "100"
+
+## we by printing type for the data types or variables it shows the which data type in python basically is_student shows <bool> type in python here 
